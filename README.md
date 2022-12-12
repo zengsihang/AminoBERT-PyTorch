@@ -1,5 +1,6 @@
 # AminoBERT-PyTorch
-PyTorch checkpoint of AminoBERT in RGN-2 by transferring weight from original TensorFlow checkpoint.
+Unofficial PyTorch checkpoint of AminoBERT in RGN-2 by transferring weight from original TensorFlow checkpoint.
+
 **Note**: We have checked the consistency of performance on our tasks, but haven't checked it on the benchmarks.
 
 ## Usage

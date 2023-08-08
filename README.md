@@ -4,7 +4,7 @@ Unofficial PyTorch checkpoint of AminoBERT in RGN-2 by transferring weight from 
 **Note**: We have checked the consistency of performance on our tasks, but haven't checked it on the benchmarks.
 
 ## Usage
-- Download checkpoint: https://cloud.tsinghua.edu.cn/d/4193fdbaa4fe4a99ac3f/
+- Download checkpoint: https://www.dropbox.com/sh/bp1fggxyxpx4zml/AAAzvY95L4ltUTN8NcEJD64Da?dl=0
 - Load checkpoint:
 ```python
 from transformers import BertModel
